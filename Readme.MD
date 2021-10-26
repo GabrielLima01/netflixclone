@@ -12,5 +12,5 @@ e colocando elas em src={nome-da-imagem}.
  a tela Home.
  Tive que corrigir muitos erros no meio do projeto, e isso gastou muito meu tempo, pois foi a primeira vez que usei o ReactJS.
  Também aprendi a usar o Figma para desenvolver o layout do meu site.
- É difícil dar um prazo correto, pois como dito, foi minha primeira vez utilizando React e tive que aprender do 0, mas acho que mais 1 semana e eu conseguiria
+ É difícil dar um prazo correto, pois como dito, foi minha primeira vez utilizando React e tive que aprender tudo desde o início, mas acho que mais 1 semana e eu conseguiria
  colocar meu projeto em prática.
