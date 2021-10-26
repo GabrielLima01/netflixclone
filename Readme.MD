@@ -6,7 +6,7 @@ Consegui fazer uma página home clone da Netflix em que consumia a API e retorna
 100% de sucesso no decorrer do projeto. Não desisti, e recomecei tudo do 0. Depois de pesquisar bastante e assistir videos na internet, fiz uma tela login 
 e a página home da netflix, porém não consegui (e não ia dar tempo) de consumir uma API externa para retornar os valores na lista, então eu mesmo
 adicionei as imagens dos filmes e séries para conseguir entregar o projeto.
- As imagens não estavam sendo carregadas com o src={'nome-da-imagem.jpg'}, então tive que improvisar dando vários imports nas imagens 
+ As imagens não estavam sendo carregadas com o src={'nome-da-imagem.jpg'}, logo tive que improvisar dando vários imports nas imagens 
 e colocando elas em src={nome-da-imagem}.
  Minha ideia também era fazer uma tela de cadastro e login (ambas funcionando) para criar a conta do usuário, e assim que logado, redirecionar o mesmo para
  a tela Home.
