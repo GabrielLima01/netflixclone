@@ -1,5 +1,6 @@
 import React, { useState, useEffect, Fragment } from 'react';
 import Header from '../../components/Header';
+import round6logo from "../../assets/round6logo.png";
 import Dark from '../../assets/filmes/dark.png';
 import The100 from '../../assets/filmes/the100.jpg';
 import elite from '../../assets/filmes/elite.png';
@@ -36,7 +37,7 @@ const Home = () => {
                     <div class="row" id="hero-infos">
                         
                         <div class="col-6">
-                            <img class="logo" src="../../assets/round6logo.png" />
+                            <img class="logo" src={round6logo} />
                             <h1 id="h1-left" class="text-white">Top 1 de hoje no Brasil.</h1>
                             <p id="p-left" class="text-white">Centena de jogadores falidos aceitam um estranho convite
                                 para um jogo de sobrevivência. Um prêmio milionário aguarda,

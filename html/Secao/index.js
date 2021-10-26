@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import Dark from '../../assets/filmes/dark.png';
 import The100 from '../../assets/filmes/the100.jpg';
 import elite from '../../assets/filmes/elite.png';
@@ -452,4 +452,4 @@ const Secao = () =>{
 };
 
 
-export default Secao;
+export default Secao; */

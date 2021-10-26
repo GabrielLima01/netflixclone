@@ -1,4 +1,4 @@
-import React from 'react';
+/* import React from 'react';
 import Dark from '../../assets/filmes/dark.png';
 
 
@@ -28,4 +28,4 @@ const Filme = () => {
   );
 }
 
-export default Filme;
+export default Filme; */
